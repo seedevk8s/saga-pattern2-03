@@ -1,0 +1,6 @@
+/home/user1/saga-pattern2/inventory-service-ms/src/main/java/com/jts/inventory/dto/InventoryStatus.java
+/home/user1/saga-pattern2/inventory-service-ms/src/main/java/com/jts/inventory/dto/InventoryRequestDTO.java
+/home/user1/saga-pattern2/inventory-service-ms/src/main/java/com/jts/inventory/InventoryApplication.java
+/home/user1/saga-pattern2/inventory-service-ms/src/main/java/com/jts/inventory/dto/InventoryResponseDTO.java
+/home/user1/saga-pattern2/inventory-service-ms/src/main/java/com/jts/inventory/controller/InventoryController.java
+/home/user1/saga-pattern2/inventory-service-ms/src/main/java/com/jts/inventory/service/InventoryService.java
